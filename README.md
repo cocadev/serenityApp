@@ -1,6 +1,6 @@
-# Serenity 🏵️
+# Serenity 🏵️ App
 
-## A React Native Music Player for Android and IOS
+## A ReactNative Music Player for Android and IOS 
 
 A mobile music player focused on streaming from free sources. Built with Rich UI
 
