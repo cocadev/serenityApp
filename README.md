@@ -1,4 +1,4 @@
-# Serenity 🏵️ App
+# Serenity 🏵️ App 2
 
 ## A ReactNative Music Player for Android and IOS 
 
